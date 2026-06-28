@@ -1,2 +1,0 @@
-org.springframework.context.ApplicationContextInitializer=\
-com.grupo9.productoinventario.common.config.DotenvInitializer
